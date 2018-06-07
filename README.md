@@ -1,0 +1,2 @@
+# KanketsusenBot
+カンケツセンのルールを教えてくれるBOT
